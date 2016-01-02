@@ -1,0 +1,3 @@
+C++ client for server: https://github.com/jensBergman/ThreadGroupServer. <br>
+This client simulates a client to test the server. It uses regular threads and a thread safe queue, which could
+be good to understand when creating responsive gui:s.
